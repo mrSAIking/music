@@ -1,0 +1,33 @@
+
+{
+  "songs": [
+    {
+      "title": "Criminal",
+      "file": "criminal"
+    },
+    {
+      "title": "Funk Song",
+      "file": "funksong"
+    },
+    {
+      "title": "Heat Waves",
+      "file": "heatwaves"
+    },
+    {
+      "title": "I Wanna Be Yours",
+      "file": "iwannabeyours"
+    },
+    {
+      "title": "Me and the Devil",
+      "file": "meandthedevil"
+    },
+    {
+      "title": "Succession Theme",
+      "file": "success"
+    },
+    {
+      "title": "Violin",
+      "file": "violinsong"
+    }
+  ]
+}
