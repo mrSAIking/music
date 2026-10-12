@@ -30,12 +30,32 @@
       "file": "violinsong"
     },
     {
-    "title": "Revenge",
-    "file": "revenge"
+      "title": "Revenge",
+      "file": "revenge"
     },
     {
-  "title": "Paradise",
-  "file": "paradise"
+      "title": "Paradise",
+      "file": "paradise"
+    },
+    {
+      "title": "Love Me Not",
+      "file": "lovemenot"
+    },
+    {
+      "title": "Mood",
+      "file": "mood"
+    },
+    {
+      "title": "Playdate",
+      "file": "playdate"
+    },
+    {
+      "title": "Skyfall",
+      "file": "skyfall"
+    },
+    {
+      "title": "Yala",
+      "file": "yala"
     }
   ]
 }
